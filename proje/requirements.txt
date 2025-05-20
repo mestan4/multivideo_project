@@ -1,0 +1,13 @@
+flask
+opencv-python
+torch
+numpy
+paho-mqtt
+pandas
+requests
+Pillow
+seaborn
+matplotlib
+scipy
+pyyaml
+tqdm
